@@ -1,4 +1,4 @@
-# 👋 Heythere, I'm Fatemeh!
+# 👋 Hey there, I'm Fatemeh!
 
 🚀 Software engineer with 3+ years of experience and a degree in Software Engineering.
 
@@ -18,6 +18,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Alt Text" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Alt Text" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Alt Text" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Alt Text" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Alt Text" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Alt Text" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Alt Text" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Alt Text" width="30"/>
              
 
-Let's connect and share insights:
-
-📧 Email: ftm.amani95@gmail.com
+Let's connect and share insights:<br/>📧 Email: ftm.amani95@gmail.com
+          
